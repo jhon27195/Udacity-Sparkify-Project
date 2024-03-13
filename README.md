@@ -22,4 +22,4 @@ This project is part of Udacity's Data Science Nanodegree program. In this proje
   
 # Blog Medium
 
-
+Go to: https://medium.com/@jose.sorto/customer-churn-prediction-project-sparkify-cc3e537a9892
